@@ -1,5 +1,5 @@
 # Car-App-Predictor
-This project requires Python and the following Python libraries installed:
+This project requires Python and the following Python libraries installed:<br />
 NumPy <br />
 Pandas <br />
 matplotlib <br />
